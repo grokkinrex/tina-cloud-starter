@@ -31,7 +31,7 @@
   },
   "theme": {
     "color": "purple",
-    "font": "nunito",
+    "font": "lato",
     "icon": "boxicon",
     "darkMode": "system"
   }
